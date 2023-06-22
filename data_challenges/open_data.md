@@ -1,4 +1,4 @@
-## Open Data
+## Open Data Challenge
 
 While health data has strong privacy protections, other types of data are intentionally public. Many countries, states, territories, and municipalities have laws that require data to be publicly accessible. In this data challenge, you will find a public data set and explore it.
 

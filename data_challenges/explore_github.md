@@ -1,4 +1,4 @@
-## Exploring GitHub
+## Exploring GitHub Challenge
 
 You are already on the website github.com and have an account (if you don't, please create one by clicking the "sign up" button in the upper right corner of your screen!). But why are we here?
 
