@@ -29,4 +29,9 @@ Metadata is data about a dataset. First read this article about [what metadata i
 #### Explore the Data
 
 
-Try to create a visualization of some of the data in your dataset from last week. While not everyone had R or Python in their pathway through the modules, if you did, try to create your visualization using one of those. You will most likely get error messages as you attempt to create a visualization. When you get an error message, share your error message with the group and see if anyone else got stuck at a similar spot.
+Create a visualization of some of the data in your dataset from last week. If you are learning R or Python as part of your DART pathway try to create your visualization using one of those. 
+
+You will most likely get error messages as you attempt to create a visualization. When you get an error message, don't get discouraged! Here are a few tips:
+* Read the message and see if it tells you what you need to fix, 
+* Try an internet search for the error message text
+* Tell the community of practice about the error message in a comment here to see if anyone has encountered a similar error.
