@@ -13,8 +13,6 @@ jobs:
       - name: Create new discussion post
         id: create-discussion
         uses: abirismyname/create-discussion@v1.1.0
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}      
         with:
           title: "Automated Announcement"
           body: |
