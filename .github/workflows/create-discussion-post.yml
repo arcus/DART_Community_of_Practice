@@ -1,0 +1,24 @@
+name: Create Discussion Post
+
+on:
+  workflow_dispatch: # later will want to update this to be on specific schedule, but workflow dispatch while testing 
+
+jobs:
+  create-post:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Create new discussion post
+        id: create-discussion
+        uses: abirismyname/create-discussion@v1.1.0
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}      
+        with:
+          title: "Automated Announcement"
+          body: |
+            This is a post to the announcements category that was created using GitHub actions. 
+            Here's hoping this works as intended! :D 
+          repository-id: ${{ secrets.REPO_ID }}
+          category-id: ${{ secrets.ANNOUNCEMENTS_ID }} 
