@@ -16,13 +16,13 @@ Everything in GitHub is organized into **repositories** or "repos." From the [Gi
 
 > A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
 
-This discussion is happening inside of a repository, the [repo name](link/to/repo).
+This discussion is happening inside of a repository, the [DART_Community_of_Practice](https://github.com/arcus/DART_Community_of_Practice).
 
 #### Version Control in GitHub
 
-GitHub makes version control easier because you can see exactly what you or someone else changed in a file. For example take a look at the [record of the change to this file where this link was added](add/link/here).
+GitHub makes version control easier because you can see exactly what you or someone else changed in a file. For example take a look at the [record of the changes that have been made to the file containing this Data Challenge](add/link/here).
 
-As you explore GitHub, you can dig into what has been changed as well as who changed and exactly when it was changed.
+As you explore GitHub, you can dig into what has been changed as well as who changed and exactly when it was changed. If you look closely enough, you can even find how this repository was created from a prototype repository.
 
 ### Open Source Projects
 
