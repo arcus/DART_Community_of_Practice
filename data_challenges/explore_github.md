@@ -20,7 +20,7 @@ This discussion is happening inside of a repository, the [DART_Community_of_Prac
 
 #### Version Control in GitHub
 
-GitHub makes version control easier because you can see exactly what you or someone else changed in a file. For example take a look at the [record of the changes that have been made to the file containing this Data Challenge](add/link/here).
+GitHub makes version control easier because you can see exactly what you or someone else changed in a file. For example take a look at the [record of the changes that have been made to the file containing this Data Challenge](https://github.com/arcus/DART_Community_of_Practice/commit/8545d59232384c836ecdffec3c120e6cfb9ba544).
 
 As you explore GitHub, you can dig into what has been changed as well as who changed and exactly when it was changed. If you look closely enough, you can even find how this repository was created from a prototype repository.
 
