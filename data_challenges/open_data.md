@@ -13,6 +13,8 @@ There are also over 50,000 public datasets on the website [kaggle.com](https://w
 
 Public data repositories might contain many different data sets relating to things like population, public transportation, taxes, civil service jobs, utilities, etc. Pick a data set that interests you to use for the rest of this challenge.
 
+**Share a link to a dataset you found by responding to this post!**
+
 
 ### Explore Your Dataset
 
@@ -26,6 +28,8 @@ Metadata is data about a dataset. First read this article about [what metadata i
 * If there is missing data, and if so, how much?
 * Who maintains this dataset? How frequently is it updated?
 
+**Sharing some metadata, along with the link to the dataset, will help others know whether your dataset is interesting to them so they can investigate it further. If someone shares helpful metadata, let them know that it was helpful to you!**
+
 #### Explore the Data
 
 
@@ -35,3 +39,5 @@ You will most likely get error messages as you attempt to create a visualization
 * Read the message and see if it tells you what you need to fix, 
 * Try an internet search for the error message text
 * Tell the community of practice about the error message in a comment here to see if anyone has encountered a similar error.
+
+**Did you succeed at making a visualization? Make sure to show it off here!**
