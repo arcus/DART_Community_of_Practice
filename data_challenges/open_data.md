@@ -33,7 +33,7 @@ Metadata is data about a dataset. First read this article about [what metadata i
 #### Explore the Data
 
 
-Create a visualization of some of the data in your dataset from last week. If you are learning R or Python as part of your DART pathway try to create your visualization using one of those. 
+Create a visualization of some of the data in your dataset. If you are learning R or Python as part of your DART pathway try to create your visualization using one of those. 
 
 You will most likely get error messages as you attempt to create a visualization. When you get an error message, don't get discouraged! Here are a few tips:
 * Read the message and see if it tells you what you need to fix, 
