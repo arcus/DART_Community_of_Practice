@@ -1,6 +1,6 @@
 # Rubber Duck Challenge
 
-Whether you are just learning to code for the first time, or a professional working with code every day, you probably spend a lot of time feeling stuck. Since everyone is getting stuck all the time, it is a good idea to learn how to handle getting stuck like an expert. Here are a few strategies that can help you get stuck, and unstuck, like a pro.
+Whether you are just learning to code for the first time, or a professional working with code every day, you probably spend a lot of time feeling stuck. Since everyone is getting stuck all the time, it is a good idea to learn how to handle getting stuck like an expert. Here are a few strategies that can help you get unstuck like a pro.
 
 ## Cheat sheets aren't cheating 
 A "cheat sheet" is a list of commands and short instructions for how to use them. Posit has a collection of useful [cheat sheets for many R packages](https://posit.co/resources/cheatsheets/) on their website. Despite the name, they are tools you can use all the time.
