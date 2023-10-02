@@ -6,3 +6,4 @@ Once a social prompt has been used, put a link here to the discussion.
 [Jargon party!](https://github.com/arcus/DART_Community_of_Practice/discussions/22)
 [Cartoon time!](https://github.com/arcus/DART_Community_of_Practice/discussions/26)
 [When wrong or missing data ruins your day!](https://github.com/arcus/DART_Community_of_Practice/discussions/32)
+[Cartoon Time: Part II](https://github.com/arcus/DART_Community_of_Practice/discussions/34)
