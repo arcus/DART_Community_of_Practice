@@ -1,6 +1,6 @@
 ## Mystery File Data Challenge
 
-There can be a pretty large gap between having a data file, and being able to use that data in any useful way. In this data challenge you will take a [mystery data file](link/here/to/raw) and figure out how to extract useful information from it.
+There can be a pretty large gap between having a data file, and being able to use that data in any useful way. In this data challenge you will take a [mystery data file](https://github.com/arcus/DART_Community_of_Practice/blob/main/data_challenges/mystery_file/mystery_file) and figure out how to extract useful information from it.
 
 #### Embrace the struggle
 
@@ -12,7 +12,7 @@ The mystery file you will be using in this challenge is a safe data file, contai
 
 ### Exploring the Mystery File
 
-Take a look at [`mystery_file`](link/here/to/raw). If you can download it, see if any programs on your computer can open it.
+Take a look at the [`mystery_file`](https://github.com/arcus/DART_Community_of_Practice/blob/main/data_challenges/mystery_file/mystery_file) for this challenge. You can use the buttons on the right side of the file's header to download it or copy its contents. Once you have a copy of it downloaded, see if any programs on your computer can open it.
 * Does it open when you double-click on it? Does right-clicking give you a list of possible applications to open it with? 
 * Can a basic text editor like NotePad (Microsoft) or TextEdit (Apple) open this file? 
 
@@ -32,7 +32,7 @@ There are hundreds of different file extensions, some of which are extremely spe
 * `.xml`
 * `.yaml`
 
-Learn what each of these 6 types of files looks like as raw text. Do any of them look like they might match our mystery file? 
+Figure out what each of these 6 types of files looks like as raw text. Do any of them look like they might match our mystery file?
 
 #### File Contents
 
