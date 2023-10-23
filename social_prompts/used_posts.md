@@ -8,3 +8,4 @@ Once a social prompt has been used, put a link here to the discussion.
 [When wrong or missing data ruins your day!](https://github.com/arcus/DART_Community_of_Practice/discussions/32)
 [Cartoon Time: Part II](https://github.com/arcus/DART_Community_of_Practice/discussions/34)
 [Data: singular or plural?](https://github.com/arcus/DART_Community_of_Practice/discussions/36)
+[Error messages](https://github.com/arcus/DART_Community_of_Practice/discussions/40) 
