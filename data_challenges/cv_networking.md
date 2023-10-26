@@ -12,23 +12,22 @@ You probably didn't answer "yes" to all of those questions, but each new platfor
 
 ## Record your accomplishments
 
-Your new skills and knowledge are an asset, and you should publicize them!  Even if you don't intend to change your job in any way, now is the time to add these new skills you have learned to your CV or resume.
+Your new skills and knowledge are an asset, and you should publicize them!  Even if you don't intend to change your job in any way, now is the time to add what you have learned to your CV or resume.
 
 If you wonder whether you have done enough to merit putting something like R or Python or SQL on your resume, there are a few things to consider:
 
 
 * If you know how to open a window on your computer where you can use that language (think RStudio for R or the terminal for Bash), and know where you can find out how to enter a few commands (the modules are a good resource to return to any time), that is a valuable skill.
 * Most people who use code professionally do not have large numbers of commands memorized. Knowing where to look to find the command you want is far more important and useful.
-* You don't need to be an expert in a skill to add it to your resume.  Include a note on your proficiency level, e.g. _Python, level: basic_.
+* You don't need to be an expert in a coding language to add it to your resume.  Include a note on your proficiency level, e.g. _Python, level: basic_.
 
+We will be sending you more specific language you can use to reference the DART program itself after you complete the post-intervention survey, which will be sent out later in the month. In the meantime, you can add to or start a skills section with your specific skills.
 
 **Start updating your CV or resume, as well as any networking profiles you have (e.g. LinkedIn) to show off your new skills.**
 
-We will be sending you more specific language you can use to reference the DART program itself after you complete the post-intervention survey, which will be sent out later in the month.
+## Tell people what you know and practice what you have learned
 
-## Tell people what you know and practice your new skills
-
-Update your employers and colleagues about your new skills! When others know that you have some knowledge and are interested in gaining more, they are more likely to come to you with work that could use, and improve upon, your new skills.
+Update your employers and colleagues about your new skills! When others know that you have some knowledge and are interested in gaining more, they are more likely to come to you with work that could use, and improve upon, your new abilities.
 
 **Share a way you want to use your new skills for research, or alternatively a way you have already started using them.**
 
