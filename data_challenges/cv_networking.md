@@ -21,9 +21,9 @@ If you wonder whether you have done enough to merit putting something like R or 
 * Most people who use code professionally do not have large numbers of commands memorized. Knowing where to look to find the command you want is far more important and useful.
 * You don't need to be an expert in a coding language to add it to your resume.  Include a note on your proficiency level, e.g. _Python, level: basic_.
 
-We will be sending you more specific language you can use to reference the DART program itself after you complete the post-intervention survey, which will be sent out later in the month. In the meantime, you can add to or start a skills section with your specific skills.
+We will be sending you more specific language you can use to reference the DART program itself after you complete the post-intervention survey, which will be sent out later in the month. In the meantime, you can add to (or start) a skills section with your specific skills.
 
-**Start updating your CV or resume, as well as any networking profiles you have (e.g. LinkedIn) to show off your new skills.**
+**Start updating your CV or resume, as well as any networking profiles you have (e.g. LinkedIn), to show off your new skills.**
 
 ## Tell people what you know and practice what you have learned
 
