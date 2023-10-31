@@ -35,4 +35,4 @@ Update your employers and colleagues about your new skills! When others know tha
 
 The best way to retain the skills you have gained through the DART program is to continue learning and building new skills. You are going to have access to all of DART's educational modules after the program ends, and each module contains links to additional resources for you to explore and dive deeper into.
 
-We sincerely hope the DART program has been but a start to your continued journey in Data Science.
+We sincerely hope the DART program has been helpful for you in your Data Science journey!
