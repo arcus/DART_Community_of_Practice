@@ -11,5 +11,5 @@ Once a social prompt has been used, put a link here to the discussion.
 * [Cartoon Time: Part II](https://github.com/arcus/DART_Community_of_Practice/discussions/34)
 * [Data: singular or plural?](https://github.com/arcus/DART_Community_of_Practice/discussions/36)
 * [Error messages](https://github.com/arcus/DART_Community_of_Practice/discussions/40)
-* [Impostor Syndrome](https://github.com/arcus/DART_Community_of_Practice/discussions/42
+* [Impostor Syndrome](https://github.com/arcus/DART_Community_of_Practice/discussions/42)
 * [Data Visualizations: Good, Bad, and Ugly](https://github.com/arcus/DART_Community_of_Practice/discussions/48) 
